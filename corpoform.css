@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(252, 242, 225);
+}
+h1{
+    color: rgba(41, 23, 5, 0.895);
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Times New Roman';
+}
+h3{
+    color: rgba(41, 23, 5, 0.895);
+    text-align: center;
+    font-family:'Times New Roman';
+    font-size: 20px;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+nav{
+    font-size: 20px;
+    align-self: center;
+    font-family:'Times New Roman';
+    color: rgba(41, 23, 5, 0.895);
+}
+input{
+    font-size: 26px;
+    background-color: rgb(240, 186, 129);
+    border-radius: 10px;
+}
+section{
+    align-self: center;
+}
+a{
+    text-decoration: none;
+    color: rgb(172, 71, 31);
+    font-size: 20px;
+}
+#volta{
+    background-color: rgb(240, 186, 129);
+    border-radius: 10px 15px;
+    margin: 15px;
+    padding: 10px;
+    font-size: 18px;
+    text-decoration: none;
+    color: rgba(41, 23, 5, 0.895);
+    text-align: center;
+}
